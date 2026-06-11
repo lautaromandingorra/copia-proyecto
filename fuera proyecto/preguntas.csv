@@ -1,0 +1,35 @@
+
+
+Tipo de Interacción (entrada)
+Tipo de Visualización (salida)
+Estática o Dinámica
+¿Cuáles son las ciudades con mayor promedio de monóxido de carbono?
+
+
+
+Mapa de calor
+Estática
+¿Qué ciudades tienen un rango de X de partículas de tamaño particular?
+Doble deslizador de rango
+Tabla
+Dinámica
+¿Qué cambios en los valores de European AQI presenta a lo largo del tiempo la ciudad X?
+
+Radio button
+Gráfico de línea
+Dinámica
+¿Cuáles son los meses que presentan mayor cantidad de eventos peligrosos?
+
+
+Gráfico circular
+Estática
+¿Qué ciudades tienen un promedio de dióxido de nitrógeno superior a X?
+
+Slider numérico
+Tabla
+Dinámica
+¿En qué ciudades se hicieron más mediciones?
+
+
+Gráfico de barra
+Estática
