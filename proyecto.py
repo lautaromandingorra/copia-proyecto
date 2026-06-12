@@ -1,4 +1,5 @@
 import csv
+import pagina as pg
 #import pagina as pag , lo comento por que por ahora no se usa
 
 
@@ -32,6 +33,16 @@ def fun_preguntas():
             #pregunta5
             #pregunta6
         return((pregunta1,pregunta2))
+
+
+
+def main():
+     pg.pregunta1(fun_preguntas())              #llama pregunta1 de pagina con el valor que devuelve fun_pregunta de proyecto.py, que devuelve un dic con ciudad:aparicion
+
+
+if __name__=="__main__":
+    main()
+
 
     
 
